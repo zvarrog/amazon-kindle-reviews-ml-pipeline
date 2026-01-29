@@ -1,14 +1,13 @@
 # amazon-kindle-reviews-ml-pipeline
 
-[![CI](https://github.com/zvarrog/sentiment-mlops-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/zvarrog/sentiment-mlops-pipeline/actions)
+[![CI](https://github.com/zvarrog/amazon-kindle-reviews-ml-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/zvarrog/amazon-kindle-reviews-ml-pipeline)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Production-ready MLOps пайплайн для sentiment analysis книжных отзывов Kindle. Полный цикл: от сырых данных до мониторинга в продакшене.
 
 ---
 
-## 🚀 Быстрый старт (5 минут)
+## 🚀 Быстрый старт
 
 ### Минимальные требования
 - Docker + Docker Compose
