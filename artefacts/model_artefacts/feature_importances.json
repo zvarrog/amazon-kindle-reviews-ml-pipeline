@@ -1,0 +1,202 @@
+[
+  {
+    "feature": "not",
+    "importance": 1.5151740578661939
+  },
+  {
+    "feature": "and",
+    "importance": 1.2372243788342299
+  },
+  {
+    "feature": "well",
+    "importance": 1.1889456718641027
+  },
+  {
+    "feature": "but",
+    "importance": 1.1806292481409837
+  },
+  {
+    "feature": "no",
+    "importance": 1.1121558759452344
+  },
+  {
+    "feature": "loved",
+    "importance": 1.0854737176022229
+  },
+  {
+    "feature": "will",
+    "importance": 1.0535665012109112
+  },
+  {
+    "feature": "liked",
+    "importance": 1.0324801179347027
+  },
+  {
+    "feature": "felt",
+    "importance": 1.0321653349104376
+  },
+  {
+    "feature": "didn",
+    "importance": 1.0293449708932758
+  },
+  {
+    "feature": "little",
+    "importance": 1.0238542956880068
+  },
+  {
+    "feature": "from",
+    "importance": 1.0178926722801531
+  },
+  {
+    "feature": "series",
+    "importance": 1.010565814308197
+  },
+  {
+    "feature": "enjoyed",
+    "importance": 0.9752122471865852
+  },
+  {
+    "feature": "wait",
+    "importance": 0.9675918533172506
+  },
+  {
+    "feature": "truly",
+    "importance": 0.8959944892461935
+  },
+  {
+    "feature": "nothing",
+    "importance": 0.8921324484773983
+  },
+  {
+    "feature": "you",
+    "importance": 0.8766339088436983
+  },
+  {
+    "feature": "was good",
+    "importance": 0.8580809678049022
+  },
+  {
+    "feature": "right",
+    "importance": 0.8538147027762619
+  },
+  {
+    "feature": "interesting",
+    "importance": 0.840851482325994
+  },
+  {
+    "feature": "she",
+    "importance": 0.8371138474870096
+  },
+  {
+    "feature": "ok",
+    "importance": 0.8297306354281908
+  },
+  {
+    "feature": "stories",
+    "importance": 0.821971694565601
+  },
+  {
+    "feature": "any",
+    "importance": 0.8184407352116709
+  },
+  {
+    "feature": "down",
+    "importance": 0.8025155356895942
+  },
+  {
+    "feature": "how",
+    "importance": 0.7947786625782984
+  },
+  {
+    "feature": "free",
+    "importance": 0.792836334999329
+  },
+  {
+    "feature": "young",
+    "importance": 0.7917695865887365
+  },
+  {
+    "feature": "waste",
+    "importance": 0.791176246007397
+  },
+  {
+    "feature": "better",
+    "importance": 0.790667970335232
+  },
+  {
+    "feature": "like the",
+    "importance": 0.7898946266758956
+  },
+  {
+    "feature": "sex",
+    "importance": 0.7878254825951461
+  },
+  {
+    "feature": "those",
+    "importance": 0.7862169935403707
+  },
+  {
+    "feature": "hope",
+    "importance": 0.7766344120066475
+  },
+  {
+    "feature": "can wait",
+    "importance": 0.7702955372046193
+  },
+  {
+    "feature": "really enjoyed",
+    "importance": 0.7694663869168042
+  },
+  {
+    "feature": "life",
+    "importance": 0.7669818756429937
+  },
+  {
+    "feature": "have",
+    "importance": 0.766369948162318
+  },
+  {
+    "feature": "deleted",
+    "importance": 0.7660880234786563
+  },
+  {
+    "feature": "three",
+    "importance": 0.7647055059855534
+  },
+  {
+    "feature": "hot",
+    "importance": 0.76395426019847
+  },
+  {
+    "feature": "the story",
+    "importance": 0.7637239538206623
+  },
+  {
+    "feature": "it was",
+    "importance": 0.760195601805604
+  },
+  {
+    "feature": "with",
+    "importance": 0.7586488108219012
+  },
+  {
+    "feature": "doesn",
+    "importance": 0.7553935911467168
+  },
+  {
+    "feature": "recipes",
+    "importance": 0.7516227145318186
+  },
+  {
+    "feature": "at all",
+    "importance": 0.7508055597103361
+  },
+  {
+    "feature": "the next",
+    "importance": 0.7460791838350902
+  },
+  {
+    "feature": "okay",
+    "importance": 0.7432016184784527
+  }
+]

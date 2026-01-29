@@ -1,0 +1,23 @@
+# Dockerfile.airflow — корневой Dockerfile для сервиса Airflow
+FROM apache/airflow:2.10.2
+
+USER root
+
+RUN apt-get update && \
+    apt-get install -y default-jre-headless logrotate cron curl ca-certificates && \
+    apt-get clean && rm -rf /var/lib/apt/lists/*
+
+ENV JAVA_HOME=/usr/lib/jvm/default-java
+
+COPY logrotate.conf /etc/logrotate.d/kindle-reviews
+RUN chmod 644 /etc/logrotate.d/kindle-reviews
+
+USER airflow
+
+COPY requirements.txt /tmp/requirements.txt
+COPY tests/requirements.txt /tmp/tests-requirements.txt
+
+RUN python -m pip install --upgrade pip setuptools wheel && \
+    pip --version && \
+    pip install --default-timeout=300 --no-cache-dir -r /tmp/requirements.txt && \
+    pip install --default-timeout=300 --no-cache-dir -r /tmp/tests-requirements.txt
